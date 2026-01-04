@@ -1,0 +1,36 @@
+body{
+    background-color: lightcyan;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Raleway", sans-serif;
+}
+.Header{
+    background-color: coral;
+    padding: 20px;
+}
+.logo{
+    font-size: 40px;
+    color: azure;
+}
+nav a{
+    text-decoration: none;
+    color: azure;
+    padding: 15px;
+}
+nav a:hover{
+    background-color: blanchedalmond;
+    color: black;
+}
+.Image img{
+    margin-left: 15px;
+    border-radius: 20px;
+}
+footer{
+    background-color: coral;
+    color: azure;
+    padding: 15px;
+}
+main{
+    padding-bottom: 37px;
+}
